@@ -1,6 +1,9 @@
 #include <stdio.h>
 
 void main () {
+  char answer[100];
   printf("Hello World!\n");
   printf("How are you?\n);
+  scanf("%s", answer);
+  printf("Nice to know!\n);
 }
