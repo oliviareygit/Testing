@@ -5,4 +5,5 @@ void main () {
   printf("Hello World!\n");
   printf("How are you?\n);
   scanf("%s", answer);
+  printf("Nice to know!\n);
 }
